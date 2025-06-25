@@ -1,7 +1,3 @@
-**Requirement Specification** for the **User Authentication**, **Property Management**, and **Booking System** for the Airbnb Clone backend.
-
----
-
 # 📄 Backend Requirement Specifications
 
 This document outlines the detailed functional requirements for the **User Authentication**, **Property Management**, and **Booking System** modules. Each section includes API endpoints, input/output formats, validation rules, and performance expectations.
